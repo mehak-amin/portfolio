@@ -1,0 +1,6 @@
+# Robots.txt for Mehak Amin Portfolio
+User-agent: *
+Allow: /
+
+# XML Sitemap reference for Search Engine Bots (Google, Bing, DuckDuckGo)
+Sitemap: https://mehakamin.dev/sitemap.xml
